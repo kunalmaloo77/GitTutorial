@@ -4,8 +4,6 @@
 
 Climate change is one of the most pressing issues facing humanity today. It refers to long-term alterations in temperature, precipitation, wind patterns, and other aspects of the Earth's climate system. Driven largely by human activities—especially the burning of fossil fuels and deforestation—climate change poses severe threats to ecosystems, economies, and communities worldwide.
 
-**Causes of Climate Change**
-
 The primary driver of climate change is the enhanced greenhouse effect, a process in which certain gases—such as carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O)—trap heat in the Earth’s atmosphere. These gases are released through activities like coal and oil combustion, agriculture, and industrial processes. Deforestation exacerbates the problem by reducing the Earth’s capacity to absorb CO₂. The cumulative impact of these activities has led to a rapid increase in global temperatures, a phenomenon known as global warming.
 
 **Impacts of Climate Change**
